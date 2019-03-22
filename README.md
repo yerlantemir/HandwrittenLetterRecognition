@@ -1,2 +1,2 @@
-# HandwrittenDigitRecognition
-Trying to create own digit recognition GUI in python
+# HandwrittenKazakhLetterRecognition
+Trying to create own letter recognition GUI in python
